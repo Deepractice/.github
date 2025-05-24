@@ -9,8 +9,6 @@
 ![Followers](https://img.shields.io/github/followers/Deepractice?style=for-the-badge&color=blue)
 ![Total Stars](https://img.shields.io/github/stars/Deepractice?style=for-the-badge&color=yellow)
 
----
-
 </div>
 
 ## 🏆 组织成就
@@ -26,8 +24,6 @@
 
 </div>
 
----
-
 ## 🔥 开源项目
 
 <div align="center">
@@ -41,8 +37,6 @@
 **像写HTML一样写AI**  
 标签语言驱动的AI工程开发新范式。通过声明式配置，让AI应用开发变得简单而标准化。
 
----
-
 ### ⚡ PromptX
 [![GitHub Repo](https://img.shields.io/badge/PromptX-Repository-181717?style=for-the-badge&logo=github)](https://github.com/Deepractice/PromptX)
 ![Stars](https://img.shields.io/github/stars/Deepractice/PromptX?style=for-the-badge&color=FFD700&logo=star)
@@ -53,8 +47,6 @@
 提供结构化、模块化的方式构建和管理AI提示词，让AI更智能、更专业。
 
 </div>
-
----
 
 ## 📢 内容平台
 
@@ -71,8 +63,6 @@
 ![WeChat QR](../assets/wechat-qrcode.png)
 
 </div>
-
----
 
 ## 🤝 加入我们
 
@@ -94,17 +84,11 @@
 
 </div>
 
----
-
 ## 📞 联系我们
 
-<div align="center">
-
-[![WeChat](https://img.shields.io/badge/微信-deepracticex-07C160?style=for-the-badge&logo=wechat)](https://wechat.com)
-[![Email](https://img.shields.io/badge/邮箱-sean@deepracticex.com-D14836?style=for-the-badge&logo=gmail)](mailto:sean@deepracticex.com)
-[![Website](https://img.shields.io/badge/官网-deepracticex.com-4285F4?style=for-the-badge&logo=google-chrome)](https://www.deepracticex.com)
-
-</div>
+- 📱 **微信号**：deepracticex
+- 📧 **邮箱**：[sean@deepracticex.com](mailto:sean@deepracticex.com)
+- 🌐 **官网**：[deepracticex.com](https://www.deepracticex.com)
 
 ---
 
