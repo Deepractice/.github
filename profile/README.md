@@ -1,6 +1,6 @@
-# 深度实践 | Deepractice
-
 <div align="center">
+
+# 深度实践 | Deepractice
 
 ### 🎯 **实践 · 协作 · 创新**
 
@@ -11,9 +11,9 @@
 
 </div>
 
-## 🏆 组织成就
-
 <div align="center">
+
+## 🏆 组织成就
 
 | 指标 | 数量 | 描述 |
 |:---:|:---:|:---:|
@@ -24,9 +24,9 @@
 
 </div>
 
-## 🔥 开源项目
-
 <div align="center">
+
+## 🔥 开源项目
 
 ### 🚀 DPML
 [![GitHub Repo](https://img.shields.io/badge/DPML-Repository-181717?style=for-the-badge&logo=github)](https://github.com/Deepractice/dpml) 
@@ -48,15 +48,17 @@
 
 </div>
 
+<div align="center">
+
 ## 📢 内容平台
 
 我们在多个平台分享AI实践、技术洞察和行业见解：
 
-- 🌐 [官方网站](https://www.deepracticex.com) - 深度技术文章和最新动态
-- 📝 [技术博客](https://www.deepracticex.com/blog.html) - AI工程化实践经验
-- 🎙️ [播客频道](https://www.xiaoyuzhoufm.com/podcast/67bc12b63347fd01f19109ab) - AI技术探讨和行业见解
-- 📺 [哔哩哔哩](https://space.bilibili.com/277448879) - 技术视频和教程分享
-- 📱 **公众号：AI深度实践** - AI实践分享和深度思考
+🌐 [官方网站](https://www.deepracticex.com) - 深度技术文章和最新动态  
+📝 [技术博客](https://www.deepracticex.com/blog.html) - AI工程化实践经验  
+🎙️ [播客频道](https://www.xiaoyuzhoufm.com/podcast/67bc12b63347fd01f19109ab) - AI技术探讨和行业见解  
+📺 [哔哩哔哩](https://space.bilibili.com/277448879) - 技术视频和教程分享  
+📱 **公众号：AI深度实践** - AI实践分享和深度思考
 
 <div align="center">
 
@@ -64,9 +66,9 @@
 
 </div>
 
-## 🤝 加入我们
-
 <div align="center">
+
+## 🤝 加入我们
 
 ### 🎯 我们在寻找
 
@@ -77,18 +79,23 @@
 **AI工程师** · **产品经理** · **技术写手** · **社区运营**
 
 ### 🔧 参与方式
-- 🐛 提交Issues和Bug报告
-- 💡 贡献新的想法和功能
-- 📝 完善文档和教程
-- 🌟 Star我们的项目
+
+🐛 提交Issues和Bug报告  
+💡 贡献新的想法和功能  
+📝 完善文档和教程  
+🌟 Star我们的项目
 
 </div>
 
+<div align="center">
+
 ## 📞 联系我们
 
-- 📱 **微信号**：deepracticex
-- 📧 **邮箱**：[sean@deepracticex.com](mailto:sean@deepracticex.com)
-- 🌐 **官网**：[deepracticex.com](https://www.deepracticex.com)
+📱 **微信号**：deepracticex  
+📧 **邮箱**：[sean@deepracticex.com](mailto:sean@deepracticex.com)  
+🌐 **官网**：[deepracticex.com](https://www.deepracticex.com)
+
+</div>
 
 ---
 
