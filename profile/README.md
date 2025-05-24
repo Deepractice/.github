@@ -6,8 +6,8 @@
 
 **让AI服务触手可及 | Make AI services simple**
 
-![Followers](https://img.shields.io/github/followers/Deepractice?style=for-the-badge&color=blue)
-![Total Stars](https://img.shields.io/github/stars/Deepractice?style=for-the-badge&color=yellow)
+![Followers](https://img.shields.io/github/followers/Deepractice?style=flat&color=blue)
+![Total Stars](https://img.shields.io/github/stars/Deepractice?style=flat&color=yellow)
 
 </div>
 
@@ -29,19 +29,19 @@
 ## 🔥 开源项目
 
 ### 🚀 DPML
-[![GitHub Repo](https://img.shields.io/badge/DPML-Repository-181717?style=for-the-badge&logo=github)](https://github.com/Deepractice/dpml) 
-![Stars](https://img.shields.io/github/stars/Deepractice/dpml?style=for-the-badge&color=FFD700&logo=star)
-![Forks](https://img.shields.io/github/forks/Deepractice/dpml?style=for-the-badge&color=32CD32&logo=git-branch)
-![Issues](https://img.shields.io/github/issues/Deepractice/dpml?style=for-the-badge&color=red)
+[![GitHub Repo](https://img.shields.io/badge/DPML-Repository-181717?style=flat&logo=github)](https://github.com/Deepractice/dpml) 
+![Stars](https://img.shields.io/github/stars/Deepractice/dpml?style=flat&color=FFD700&logo=star)
+![Forks](https://img.shields.io/github/forks/Deepractice/dpml?style=flat&color=32CD32&logo=git-branch)
+![Issues](https://img.shields.io/github/issues/Deepractice/dpml?style=flat&color=red)
 
 **像写HTML一样写AI**  
 标签语言驱动的AI工程开发新范式。通过声明式配置，让AI应用开发变得简单而标准化。
 
 ### ⚡ PromptX
-[![GitHub Repo](https://img.shields.io/badge/PromptX-Repository-181717?style=for-the-badge&logo=github)](https://github.com/Deepractice/PromptX)
-![Stars](https://img.shields.io/github/stars/Deepractice/PromptX?style=for-the-badge&color=FFD700&logo=star)
-![Forks](https://img.shields.io/github/forks/Deepractice/PromptX?style=for-the-badge&color=32CD32&logo=git-branch)
-![Issues](https://img.shields.io/github/issues/Deepractice/PromptX?style=for-the-badge&color=red)
+[![GitHub Repo](https://img.shields.io/badge/PromptX-Repository-181717?style=flat&logo=github)](https://github.com/Deepractice/PromptX)
+![Stars](https://img.shields.io/github/stars/Deepractice/PromptX?style=flat&color=FFD700&logo=star)
+![Forks](https://img.shields.io/github/forks/Deepractice/PromptX?style=flat&color=32CD32&logo=git-branch)
+![Issues](https://img.shields.io/github/issues/Deepractice/PromptX?style=flat&color=red)
 
 **系统性的提示词工程框架**  
 提供结构化、模块化的方式构建和管理AI提示词，让AI更智能、更专业。
@@ -72,9 +72,9 @@
 
 ### 🎯 我们在寻找
 
-![Contributors](https://img.shields.io/badge/贡献者-Welcome-success?style=for-the-badge&logo=heart)
-![Developers](https://img.shields.io/badge/开发者-Wanted-blue?style=for-the-badge&logo=code)
-![Collaborators](https://img.shields.io/badge/合作伙伴-Invited-purple?style=for-the-badge&logo=handshake)
+![Contributors](https://img.shields.io/badge/贡献者-Welcome-success?style=flat&logo=heart)
+![Developers](https://img.shields.io/badge/开发者-Wanted-blue?style=flat&logo=code)
+![Collaborators](https://img.shields.io/badge/合作伙伴-Invited-purple?style=flat&logo=handshake)
 
 **AI工程师** · **产品经理** · **技术写手** · **社区运营**
 
@@ -103,7 +103,7 @@
 
 ### 💡 **用技术的深度，释放AI的价值**
 
-![Profile Views](https://komarev.com/ghpvc/?username=Deepractice&color=blueviolet&style=for-the-badge)
-![Last Commit](https://img.shields.io/github/last-commit/Deepractice/dpml?style=for-the-badge&color=green)
+![Profile Views](https://komarev.com/ghpvc/?username=Deepractice&color=blueviolet&style=flat)
+![Last Commit](https://img.shields.io/github/last-commit/Deepractice/dpml?style=flat&color=green)
 
 </div> 
