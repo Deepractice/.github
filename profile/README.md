@@ -58,15 +58,15 @@
 
 ## 📢 内容平台
 
-<div align="center">
+我们在多个平台分享AI实践、技术洞察和行业见解：
 
-| 平台 | 描述 | 链接 |
-|:---:|:---:|:---:|
-| 🌐 | 深度技术文章和最新动态 | [官方网站](https://www.deepracticex.com) |
-| 📝 | AI工程化实践经验 | [技术博客](https://www.deepracticex.com/blog.html) |
-| 🎙️ | AI技术探讨和行业见解 | [播客频道](https://www.xiaoyuzhoufm.com/podcast/67bc12b63347fd01f19109ab) |
-| 📺 | 技术视频和教程分享 | [哔哩哔哩](https://space.bilibili.com/277448879) |
-| 📱 | AI实践分享和深度思考 | 公众号：AI深度实践 |
+- 🌐 [官方网站](https://www.deepracticex.com) - 深度技术文章和最新动态
+- 📝 [技术博客](https://www.deepracticex.com/blog.html) - AI工程化实践经验
+- 🎙️ [播客频道](https://www.xiaoyuzhoufm.com/podcast/67bc12b63347fd01f19109ab) - AI技术探讨和行业见解
+- 📺 [哔哩哔哩](https://space.bilibili.com/277448879) - 技术视频和教程分享
+- 📱 **公众号：AI深度实践** - AI实践分享和深度思考
+
+<div align="center">
 
 ![WeChat QR](../assets/wechat-qrcode.png)
 
