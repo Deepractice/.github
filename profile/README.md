@@ -2,9 +2,7 @@
 
 <div align="center">
 
-![实践](https://img.shields.io/badge/实践-Practice-4CAF50?style=for-the-badge&logo=rocket)
-![协作](https://img.shields.io/badge/协作-Collaboration-2196F3?style=for-the-badge&logo=handshake)
-![创新](https://img.shields.io/badge/创新-Innovation-9C27B0?style=for-the-badge&logo=lightbulb)
+### 🎯 **实践 · 协作 · 创新**
 
 **让AI服务触手可及 | Make AI services simple**
 
