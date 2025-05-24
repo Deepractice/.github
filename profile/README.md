@@ -4,7 +4,7 @@
 
 ### 🎯 **实践 · 协作 · 创新**
 
-**让AI服务触手可及 | Make AI services simple**
+**让AI触手可及 | Make AI at your fingertips**
 
 ![Followers](https://img.shields.io/github/followers/Deepractice?style=flat&color=blue)
 ![Total Stars](https://img.shields.io/github/stars/Deepractice?style=flat&color=yellow)
