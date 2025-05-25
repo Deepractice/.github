@@ -54,8 +54,8 @@
 
 我们在多个平台分享AI实践、技术洞察和行业见解：
 
-🌐 [官方网站](https://www.deepracticex.com) - 深度技术文章和最新动态  
-📝 [技术博客](https://www.deepracticex.com/blog.html) - AI工程化实践经验  
+🌐 [官方网站](https://deepractice.ai) - 深度技术文章和最新动态  
+📝 [技术博客](https://deepractice.ai/blog.html) - AI工程化实践经验  
 🎙️ [播客频道](https://www.xiaoyuzhoufm.com/podcast/67bc12b63347fd01f19109ab) - AI技术探讨和行业见解  
 📺 [哔哩哔哩](https://space.bilibili.com/277448879) - 技术视频和教程分享  
 📱 **公众号：AI深度实践** - AI实践分享和深度思考
@@ -93,7 +93,7 @@
 
 📱 **微信号**：deepracticex  
 📧 **邮箱**：[sean@deepracticex.com](mailto:sean@deepracticex.com)  
-🌐 **官网**：[deepracticex.com](https://www.deepracticex.com)
+🌐 **官网**：[deepractice.ai](https://deepractice.ai)
 
 </div>
 
