@@ -29,7 +29,7 @@
 ## 🔥 开源项目
 
 ### 🚀 DPML
-[![GitHub Repo](https://img.shields.io/badge/DPML-Repository-181717?style=flat&logo=github)](https://github.com/Deepractice/dpml) 
+[![GitHub Repo](https://img.shields.io/badge/DPML-Repo-181717?style=flat&logo=github)](https://github.com/Deepractice/dpml) 
 ![Stars](https://img.shields.io/github/stars/Deepractice/dpml?style=flat&color=FFD700&logo=star)
 ![Forks](https://img.shields.io/github/forks/Deepractice/dpml?style=flat&color=32CD32&logo=git-branch)
 ![Issues](https://img.shields.io/github/issues/Deepractice/dpml?style=flat&color=red)
@@ -38,7 +38,7 @@
 标签语言驱动的AI工程开发新范式。通过声明式配置，让AI应用开发变得简单而标准化。
 
 ### ⚡ PromptX
-[![GitHub Repo](https://img.shields.io/badge/PromptX-Repository-181717?style=flat&logo=github)](https://github.com/Deepractice/PromptX)
+[![GitHub Repo](https://img.shields.io/badge/PromptX-Repo-181717?style=flat&logo=github)](https://github.com/Deepractice/PromptX)
 ![Stars](https://img.shields.io/github/stars/Deepractice/PromptX?style=flat&color=FFD700&logo=star)
 ![Forks](https://img.shields.io/github/forks/Deepractice/PromptX?style=flat&color=32CD32&logo=git-branch)
 ![Issues](https://img.shields.io/github/issues/Deepractice/PromptX?style=flat&color=red)
