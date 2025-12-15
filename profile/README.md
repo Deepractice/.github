@@ -37,16 +37,16 @@ Like JVM runs Java anywhere, **Agent VM runs agents anywhere**.
 │                     Agent VM Stack                          │
 ├─────────────────────────────────────────────────────────────┤
 │                                                             │
-│   DARP         Resource Protocol           arp://org@tool  │
+│   DARP         Resource Protocol           arp://org@tool   │
 │   ───────────────────────────────────────────────────────── │
 │                           ↓                                 │
-│   DPML         Markup Language         <agent>...</agent>  │
+│   DPML         Markup Language         <agent>...</agent>   │
 │   ───────────────────────────────────────────────────────── │
 │                           ↓                                 │
-│   PromptX      Context & Extensions       Nuwa · Luban     │
+│   PromptX      Context & Extensions       Nuwa · Luban      │
 │   ───────────────────────────────────────────────────────── │
 │                           ↓                                 │
-│   AgentX       Runtime Engine          Event-driven Core   │
+│   AgentX       Runtime Engine          Event-driven Core    │
 │                                                             │
 └─────────────────────────────────────────────────────────────┘
 ```
