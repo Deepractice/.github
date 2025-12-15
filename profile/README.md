@@ -1,12 +1,8 @@
 <div align="center">
 
-# Deepractice
+# Deepractice - Build for the Open Agent VM
 
-### Build for the Open Agent VM
-
-<br/>
-
-## Born open, run free, agents unchained.
+**Born open, run free, agents unchained.**
 
 <br/>
 
@@ -68,9 +64,7 @@ Like JVM runs Java anywhere, **Agent VM runs agents anywhere**.
 
 ---
 
-## Quick Start
-
-**30 seconds to your first agent:**
+## What It Looks Like
 
 ```xml
 <!-- assistant.dpml -->
@@ -117,16 +111,13 @@ npx dpml agent chat assistant.dpml
 
 ---
 
-## Contributing
+## Our Vision
 
-We're building an **open standard**. Join us:
+We believe the future of AI belongs to **open standards**, not walled gardens.
 
-- ⭐ Star our repos
-- 🐛 Report issues
-- 💡 Propose features
-- 📝 Write docs
+Just as the Web flourished through HTML and HTTP, the Agent era needs open protocols that let innovation flow freely — across platforms, across models, across borders.
 
-**Email**: sean@deepracticex.com
+**We're not just building tools. We're building the foundation.**
 
 ---
 
@@ -137,7 +128,5 @@ We're building an **open standard**. Join us:
 **Open standard. Universal runtime. Agents, unchained.**
 
 <br/>
-
-[![Profile Views](https://komarev.com/ghpvc/?username=Deepractice&color=blueviolet&style=flat)](https://github.com/Deepractice)
 
 </div>
