@@ -16,13 +16,15 @@
 
 ## The Problem
 
-Today's AI Agents are **prisoners**:
+Today's AI Agents are **prisoners** of platforms.
 
-- GPTs locked in OpenAI
-- Coze bots locked in ByteDance
-- Dify agents locked in Dify
+No portability. No standards. No freedom.
 
-Your agents deserve freedom.
+Every platform builds walls. Your agents can't move, can't migrate, can't breathe.
+
+**This isn't new.** Before JVM, programs were prisoners of hardware. Before browsers, content was prisoners of software.
+
+Every era needs its VM.
 
 ---
 
