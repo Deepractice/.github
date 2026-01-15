@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="https://brands.deepractice.ai/images/origin.jpg" alt="Deepractice" width="200"/>
+
 # Deepractice
 
 **Open-source AI Agent ecosystem builder ｜ 开源 AI 智能体生态建设者**
@@ -63,7 +65,9 @@
 
 ## Community
 
-- [Website](https://deepractice.ai)
+- [Website](https://deepractice.ai) · [English](https://deepractice.ai/en)
+- [Blog](https://deepractice.ai/blog)
+- [Business](https://business.deepractice.ai)
 - [DeepracticeX Community](https://x.deepractice.ai)
 - [Bilibili](https://space.bilibili.com/277448879)
 - [Podcast](https://www.xiaoyuzhoufm.com/podcast/67bc12b63347fd01f19109ab)
