@@ -1,134 +1,78 @@
 <div align="center">
 
-# Deepractice - Build for the Open Agent VM
+# Deepractice
 
-**Born open, run free, agents unchained.**
-
-<br/>
+**AI Agent infrastructure company ｜ AI 智能体基础设施公司**
 
 [![Stars](https://img.shields.io/github/stars/Deepractice?style=flat&color=yellow)](https://github.com/Deepractice)
 [![Followers](https://img.shields.io/github/followers/Deepractice?style=flat&color=blue)](https://github.com/orgs/Deepractice/followers)
-[![Website](https://img.shields.io/badge/Website-deepractice.ai-blue)](https://deepractice.ai)
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Deepractice)
 
 </div>
 
 ---
 
-## The Problem
+## AgentVM
 
-Today's AI Agents are **prisoners** of platforms.
-
-No portability. No standards. No freedom.
-
-Every platform builds walls. Your agents can't move, can't migrate, can't breathe.
-
-**This isn't new.** Before JVM, programs were prisoners of hardware. Before browsers, content was prisoners of software.
-
-Every era needs its VM.
-
----
-
-## The Solution
-
-We're building the **open-source virtual machine** for AI Agents.
-
-Like JVM runs Java anywhere, **Agent VM runs agents anywhere**.
+**AgentVM** (Agent Virtual Machine) is our complete AI Agent technology stack — enabling "write once, run anywhere" for AI Agents.
 
 ```
 ┌─────────────────────────────────────────────────────────────┐
-│                     Agent VM Stack                          │
+│                      AgentVM Stack                          │
 ├─────────────────────────────────────────────────────────────┤
 │                                                             │
-│   DARP         Resource Protocol           arp://org@tool   │
-│   ───────────────────────────────────────────────────────── │
-│                           ↓                                 │
-│   DPML         Markup Language         <agent>...</agent>   │
-│   ───────────────────────────────────────────────────────── │
-│                           ↓                                 │
-│   PromptX      Context & Extensions       Nuwa · Luban      │
-│   ───────────────────────────────────────────────────────── │
-│                           ↓                                 │
-│   AgentX       Runtime Engine          Event-driven Core    │
+│   Protocol        Product         Function                  │
+│   ─────────────────────────────────────────────────────     │
+│   DPML            PromptX         Context Management        │
+│   DARP            ResourceX       Resource Addressing       │
+│   DATP            ToolX           Tool Integration          │
+│   DAEP            AgentX          Runtime Engine            │
+│   DASP            SandboX         Execution Isolation       │
+│   UIX             UIX             AI-to-UI Rendering        │
 │                                                             │
 └─────────────────────────────────────────────────────────────┘
 ```
 
 ---
 
-## Core Projects
+## 6 Protocols
 
-| Project | Role | What it does |
-|---------|------|--------------|
-| [**DARP**](https://github.com/Deepractice/darp) | Protocol | Universal addressing for agent resources |
-| [**DPML**](https://github.com/Deepractice/dpml) | Standard | Write agents like HTML — declarative & portable |
-| [**PromptX**](https://github.com/Deepractice/PromptX) | Extension | Create roles (Nuwa) & integrate tools (Luban) |
-| [**AgentX**](https://github.com/Deepractice/AgentX) | Runtime | Event-driven engine with Docker-style lifecycle |
-
----
-
-## What It Looks Like
-
-```xml
-<!-- assistant.dpml -->
-<agent>
-  <llm api-type="openai" model="gpt-4" />
-  <prompt>You are a helpful assistant.</prompt>
-</agent>
-```
-
-```bash
-npx dpml agent chat assistant.dpml
-```
-
-**Or create with natural language:**
-
-```
-> @Nuwa create a travel planning expert
-> @action travel-planner
-> Plan a 3-day trip to Tokyo
-```
+| Protocol | Full Name | Function |
+|----------|-----------|----------|
+| **DPML** | Prompt Markup Language | Declarative prompt definition |
+| **DARP** | Agent Resource Protocol | Resource addressing & distribution |
+| **DATP** | Agent Tool Protocol | Tool interface specification |
+| **DAEP** | Agent Event Protocol | Event flow protocol |
+| **DASP** | Agent Sandbox Protocol | Execution isolation specification |
+| **UIX** | UI Intermediate Representation | AI-to-UI rendering |
 
 ---
 
-## Why Deepractice?
+## 6 Products
 
-|  | GPTs | Coze | LangChain | **Deepractice** |
-|--|------|------|-----------|-----------------|
-| Open Source | ❌ | ❌ | ✅ | ✅ |
-| Self-hosted | ❌ | ❌ | ✅ | ✅ |
-| Cross-LLM | ❌ | ❌ | ✅ | ✅ |
-| Declarative Config | ❌ | ❌ | ❌ | ✅ |
-| Standard Protocol | ❌ | ❌ | ❌ | ✅ |
-| No Chain Required | — | — | ❌ | ✅ |
+| Product | Metaphor | Function | Status |
+|---------|----------|----------|--------|
+| [**PromptX**](https://github.com/Deepractice/PromptX) | Brain | AI Agent context platform | Production |
+| [**AgentX**](https://github.com/Deepractice/AgentX) | Body | Event-driven runtime platform | Production |
+| [**ResourceX**](https://github.com/Deepractice/ResourceX) | Market | Unified resource manager (ARP) | Available |
+| [**ToolX**](https://github.com/Deepractice/ToolX) | Hands | Tool integration | Available |
+| [**UIX**](https://github.com/Deepractice/UIX) | Expression | AI-to-UI protocol layer | Early |
+| [**SandboX**](https://github.com/Deepractice/SandboX) | Workspace | Agent sandbox | Planned |
 
 ---
 
 ## Community
 
-- 🌐 [Website](https://deepractice.ai)
-- 💬 [DeepracticeX Community](https://x.deepractice.ai)
-- 📺 [Bilibili](https://space.bilibili.com/277448879)
-- 🎙️ [Podcast](https://www.xiaoyuzhoufm.com/podcast/67bc12b63347fd01f19109ab)
-- 📱 WeChat: **deepracticex**
-
----
-
-## Our Vision
-
-We believe the future of AI belongs to **open standards**, not walled gardens.
-
-Just as the Web flourished through HTML and HTTP, the Agent era needs open protocols that let innovation flow freely — across platforms, across models, across borders.
-
-**We're not just building tools. We're building the foundation.**
+- [Website](https://deepractice.ai)
+- [DeepracticeX Community](https://x.deepractice.ai)
+- [Bilibili](https://space.bilibili.com/277448879)
+- [Podcast](https://www.xiaoyuzhoufm.com/podcast/67bc12b63347fd01f19109ab)
+- WeChat: **deepracticex**
 
 ---
 
 <div align="center">
 
-<br/>
-
-**Open standard. Universal runtime. Agents, unchained.**
-
-<br/>
+**Open protocols. Universal runtime. Agents, unchained.**
 
 </div>
