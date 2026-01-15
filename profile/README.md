@@ -2,7 +2,7 @@
 
 # Deepractice
 
-**AI Agent infrastructure company ｜ AI 智能体基础设施公司**
+**Open-source AI Agent ecosystem builder ｜ 开源 AI 智能体生态建设者**
 
 [![Stars](https://img.shields.io/github/stars/Deepractice?style=flat&color=yellow)](https://github.com/Deepractice)
 [![Followers](https://img.shields.io/github/followers/Deepractice?style=flat&color=blue)](https://github.com/orgs/Deepractice/followers)
